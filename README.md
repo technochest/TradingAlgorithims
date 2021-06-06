@@ -1,10 +1,12 @@
-## Trading Algorithims Samples in C#
-![Techno_Chest_logo](https://user-images.githubusercontent.com/85039215/120913388-e0793080-c664-11eb-9933-80fa0a454289.png)
-#### These are some simple trading algorithims that I am sharing with the community.  These are C# base, specifically developed to create trading bots with Ninja Trader 8.   For Trading varous equiries and futures.... 
+## Trading Bots / Algorithims Samples in C#
+![Technochest youtube2](https://user-images.githubusercontent.com/85039215/120913737-4e265c00-c667-11eb-83f6-346e7c45b94c.png)
+#### ***These are some simple trading algorithims that do the trading for you.  These are C# based and specifically developed to work with Ninja Trader 8 for Trading stocks and futures.***
+
+***These trading bots only developed as samples.   You will need to do your own significant backtesting before putting your real money into trading.   Trading is risky and you should not invenst money that you cannot afford to lose.*** 
 
 * You can check out my website at http://www.technochest.com for more information.  
 * You can also checkout my Youtube channel here: https://www.youtube.com/channel/UCptmUhSCDtab-2OnmylIWkQ
-![Technochest youtube](https://user-images.githubusercontent.com/85039215/120913041-254f9800-c662-11eb-987e-f4876707c050.png)
+
 
 
 
